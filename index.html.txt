@@ -1,0 +1,45 @@
+<!-- Início -->
+<!-- Copiar e colar o header.html aqui -->
+<!-- Conteúdo da Home -->
+
+<!-- Jumbotron/Banner -->
+<div class="p-5 mb-4 bg-light rounded-3">
+  <div class="container-fluid py-5">
+    <h1 class="display-5 fw-bold">Bem-vindo ao nosso site!</h1>
+    <p class="col-md-8 fs-4">Oferecemos soluções criativas para o seu negócio crescer.</p>
+    <button class="btn btn-primary btn-lg">Saiba Mais</button>
+  </div>
+</div>
+
+<!-- Destaques com Cards -->
+<div class="row text-center">
+  <div class="col-md-4 mb-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Serviços</h5>
+        <p class="card-text">Conheça os serviços que oferecemos.</p>
+        <a href="#" class="btn btn-outline-primary">Ver mais</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4 mb-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Notícias</h5>
+        <p class="card-text">Fique por dentro das nossas novidades.</p>
+        <a href="#" class="btn btn-outline-primary">Ver mais</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4 mb-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Produtos</h5>
+        <p class="card-text">Confira nosso catálogo de produtos.</p>
+        <a href="#" class="btn btn-outline-primary">Ver mais</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Incluir footer.html aqui -->

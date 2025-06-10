@@ -1,0 +1,22 @@
+<!-- Início -->
+<!-- Copiar e colar o header.html aqui -->
+
+<h2>Sobre Nós</h2>
+<p>Somos uma empresa dedicada a fornecer soluções eficientes para nossos clientes.</p>
+
+<!-- Grid com Imagens -->
+<div class="row mb-4">
+  <div class="col-md-4"><img src="https://via.placeholder.com/300" class="img-fluid rounded" alt="..." /></div>
+  <div class="col-md-4"><img src="https://via.placeholder.com/300" class="img-fluid rounded" alt="..." /></div>
+  <div class="col-md-4"><img src="https://via.placeholder.com/300" class="img-fluid rounded" alt="..." /></div>
+</div>
+
+<!-- Timeline simples com lista -->
+<h3>Nossa História</h3>
+<ul class="list-group">
+  <li class="list-group-item">2010 - Fundação da empresa</li>
+  <li class="list-group-item">2015 - Expansão para outros estados</li>
+  <li class="list-group-item">2022 - Lançamento da nova linha de produtos</li>
+</ul>
+
+<!-- Incluir footer.html aqui -->
